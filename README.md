@@ -213,6 +213,6 @@ Open the terminal and run:
 pip install jupyterlab
 cd ~
 mkdir ml
-mkdir tf_gui
+mkdir tf_gpu
 jupyter lab
 ```
